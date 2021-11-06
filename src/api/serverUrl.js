@@ -1,1 +1,1 @@
-export default "<YOUR_API_URL>";
+export default "https://whl3akhjx0.execute-api.ap-south-1.amazonaws.com/v1/";
